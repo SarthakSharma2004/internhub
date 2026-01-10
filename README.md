@@ -1,12 +1,15 @@
 # 🎯 InternHub – AI Internship Match Analyzer
 
+This project is a part of internship assignment by Kadeep.ai
 InternHub is a simple AI-powered tool that helps students analyze how well their profile matches an internship description. It provides a match summary, identifies skill gaps, gives improvement suggestions, and generates an ATS-style confidence score.
 
 
 ### 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20App-red?style=for-the-badge)](YOUR_STREAMLIT_APP_URL)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20App-red?style=for-the-badge)]([YOUR_STREAMLIT_APP_URL](https://internmatch-profile.streamlit.app/))
 
+
+---
 
 
 ## 🚀 Features
