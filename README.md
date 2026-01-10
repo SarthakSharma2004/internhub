@@ -106,7 +106,4 @@ streamlit run app.py
 ---
 
 
-## ⚠️ Disclaimer
-
-This tool provides AI-generated insights and should be used for guidance only. It does not guarantee internship selection.
 
