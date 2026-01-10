@@ -25,18 +25,23 @@ Guidelines:
 - Focus on actionable advice
 - Base your analysis strictly on the provided input
 - Use clear, concise and professional language
+- Do not use HTML tags like <br>. Use plain text formatting only.
 
 Output format:
 Use clear section headers for each component:
 
 - **MATCH SUMMARY**:
 
+---
 - **SKILL GAP ANALYSIS**:
 
+---
 - **RECOMMENDATIONS**:
 
+---
 - **RESUME SUGGESTIONS**:
 
+---
 - **CONFIDENCE SCORE**:
 """
 
