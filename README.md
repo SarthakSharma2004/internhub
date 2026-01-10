@@ -32,6 +32,30 @@ InternHub is a simple AI-powered tool that helps students analyze how well their
 --- 
 
 
+## 🧪 Sample Mode
+
+The system features a Sample Mode for quick demo
+
+Click “Use sample data for testing” to auto-fill example inputs and instantly test the app.
+
+
+---
+
+
+## 📦 Tech Stack
+
+- Python
+
+- Streamlit
+
+- LangChain
+
+- Model = openai/gpt-oss-120b (via Groq)
+
+
+---
+
+
 ## 🧠 How It Works
 
 - User enters their profile OR uses sample data
@@ -49,7 +73,7 @@ InternHub is a simple AI-powered tool that helps students analyze how well their
     - Confidence Score (0–100)
 
 
-    ---
+---
 
 
 ## ⚙️ Installation
@@ -76,19 +100,9 @@ GROQ_API_KEY = <Your-api-key>
 streamlit run app.py
 ```
 
-## 🧪 Sample Mode
 
-Click “Use sample data for testing” to auto-fill example inputs and instantly test the app.
+---
 
-## 📦 Tech Stack
-
-- Python
-
-- Streamlit
-
-- LangChain
-
-- Groq LLM API
 
 ## ⚠️ Disclaimer
 
