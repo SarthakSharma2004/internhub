@@ -29,11 +29,15 @@ Guidelines:
 Output format:
 Use clear section headers for each component:
 
-- Match Summary:
-- Skill Gap Analysis:
-- Recommendations:
-- Resume Suggestions:
-- Confidence Score:
+- **MATCH SUMMARY**:
+
+- **SKILL GAP ANALYSIS**:
+
+- **RECOMMENDATIONS**:
+
+- **RESUME SUGGESTIONS**:
+
+- **CONFIDENCE SCORE**:
 """
 
         return ChatPromptTemplate.from_messages([
