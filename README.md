@@ -29,6 +29,8 @@ InternHub is a simple AI-powered tool that helps students analyze how well their
 - Clean and simple UI
 
 
+![App Screenshot](assets/demo.png)
+
 --- 
 
 
