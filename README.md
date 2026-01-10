@@ -6,7 +6,7 @@ InternHub is a simple AI-powered tool that helps students analyze how well their
 
 ### 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20App-red?style=for-the-badge)]([YOUR_STREAMLIT_APP_URL](https://internmatch-profile.streamlit.app/))
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20App-red?style=for-the-badge)](https://internmatch-profile.streamlit.app/)
 
 
 ---
