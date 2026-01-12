@@ -1,6 +1,14 @@
 # 🎯 InternHub – AI Internship Match Analyzer
 
-This project is a part of internship assignment by Kadeep.ai. 
+This project is a part of internship assignment by Kadeep AI
+
+Student Details:
+
+Name: Sarthak Sharma
+ENROLLMENT NO.: E22CSEU0612
+email: e22cseu0612@bennett.edu.in
+Contact: 8920456408
+
 InternHub is a simple AI-powered tool that helps students analyze how well their profile matches an internship description. It provides a match summary, identifies skill gaps, gives improvement suggestions, and generates an ATS-style confidence score.
 
 
